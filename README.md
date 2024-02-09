@@ -52,4 +52,4 @@
 
 ###
 
-🔸*Check out My Price Card Here*👉🏻   <sub> [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://price-card-react-task-1.netlify.app/#) </sub>
+🔸*Check out My Price Card Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://price-card-react-task-1.netlify.app/#)
