@@ -1,12 +1,12 @@
 # REACT TASK 1 PRICE CARD
 
-**This Repository is created for React task 1 Price Card**
+**This Repository is created for React Task 1 : Price Card**
 
 <h2 align="left">Project Description</h2>
 
 ###
 
-<p align="left">📚 I created a Price card in React JS. <br>📚 Used React components And Props. <br>📚 Imported to GitHub using Git.<br>📚 Deployed my web application in Netlify.</p>
+<p align="left">▫️ I created a Price card in React JS. <br>▫️ Used React components And Props. <br>▫️ Imported to GitHub using Git.<br>▫️ Deployed my web application in Netlify.</p>
 
 ###
 
