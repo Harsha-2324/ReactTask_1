@@ -2,7 +2,7 @@
 
 **This Repository is created for React Task 1 : Price Card**
 
-<h2 align="left">Project Description</h2>
+<h2 align="left">Project Description :</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Programming Languages Used:</h2>
+<h2 align="left">Programming Languages Used :</h2>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="left">Tools Used:</h2>
+<h2 align="left">Tools Used :</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h2>Deployed URL:</h2>
+<h2>Deployed URL :</h2>
 
 ###
 
