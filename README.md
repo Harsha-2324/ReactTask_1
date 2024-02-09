@@ -1,8 +1,5 @@
-# React + Vite
+# REACT TASK 1 PRICE CARD
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**This Repository is created for React task 1 Price Card**
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*Click on the badge to check out My Price Card!* [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://price-card-react-task-1.netlify.app/#)
